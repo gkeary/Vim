@@ -111,7 +111,7 @@
       {
         "key": "ctrl+v",
         "command": "extension.vim_ctrl+v",
-        "description": "Paste ??",
+        "description": "Visual block mode"
         "when": "editorTextFocus && vim.mode != 'Insert Mode' && vim.useCtrlKeys"
       },
       {
